@@ -6,4 +6,4 @@ Screen Size:
 - Tablet Screen: 768px;
 - Mobile Screen: 425px;
 
-Media Query best exaple.
+Media Query best example.
